@@ -1,0 +1,13 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    offset: black, 3px;
+    background-color: whitesmoke;
+}
+
+
+ul {
+    margin: 20px 20px 20px 20px;
+    padding-bottom: 20px;
+}
