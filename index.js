@@ -203,7 +203,7 @@ const addIntern = () => {
         {
             type: 'input',
             name: 'School',
-            message: '?',
+            message: 'What school does your intern attend?',
             validate: schoolInput => {
                 if (schoolInput) {
                     return true;
